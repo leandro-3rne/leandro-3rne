@@ -5,9 +5,9 @@ First-semester **Electrical Engineering and Information Technology** student at 
 ---
 
 ### Tools & Languages
-- **Languages:** C++, Python
+- **Languages:** C++, Python, LaTeX
 - **Tools:** GitHub, PyCharm, CLion
-- **Libraries:** NumPy, SciPy, Matplotlib (Data Analysis), TensorFlow (ML), Eigen (Linear Algebra), LaTeX
+- **Libraries:** NumPy, SciPy, Matplotlib (Data Analysis), TensorFlow (ML), Eigen (Linear Algebra)
 
 ---
 
@@ -19,4 +19,4 @@ First-semester **Electrical Engineering and Information Technology** student at 
 
 ### Get in Touch
 - [E-Mail](mailto:leandro.erne@proton.me)
-- [LinkedIn](https://www.linkedin.com/in/leandro-erne)
+- [LinkedIn]([https://www.linkedin.com/in/leandro-erne](https://www.linkedin.com/in/leandro-ern%C3%A9-ab673135a/))
