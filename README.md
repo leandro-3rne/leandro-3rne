@@ -19,4 +19,4 @@ First-semester **Electrical Engineering and Information Technology** student at 
 
 ### Get in Touch
 - [E-Mail](mailto:leandro.erne@proton.me)
-- [LinkedIn]([https://www.linkedin.com/in/leandro-erne](https://www.linkedin.com/in/leandro-ern%C3%A9-ab673135a/))
+- [LinkedIn](https://www.linkedin.com/in/leandro-ern%C3%A9-ab673135a/)
