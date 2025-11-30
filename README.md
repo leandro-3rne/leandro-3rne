@@ -1,16 +1,22 @@
-## Hi there 👋
+# About Me
 
-<!--
-**leandro-3rne/leandro-3rne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+First-semester **Electrical Engineering and Information Technology** student at **ETH Zürich**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools & Languages
+- **Languages:** C++, Python
+- **Tools:** GitHub, PyCharm, CLion
+- **Libraries:** NumPy, SciPy, Matplotlib (Data Analysis), TensorFlow (ML), Eigen (Linear Algebra), LaTeX
+
+---
+
+### Interests
+- Machine learning and data analysis
+- Systems programming and robotics (C++ focus)
+
+---
+
+### Get in Touch
+- [E-Mail](mailto:leandro.erne@proton.me)
+- [LinkedIn](www.linkedin.com/in/leandro-erné-ab673135a)
