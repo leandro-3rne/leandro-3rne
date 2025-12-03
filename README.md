@@ -6,7 +6,7 @@ First-semester **Electrical Engineering and Information Technology** student at 
 
 ### Tools & Languages
 - **Languages:** C++, Python, LaTeX
-- **Tools:** GitHub, PyCharm, CLion
+- **Tools:** GitHub, VSCode, PyCharm, CLion
 - **Libraries:** NumPy, SciPy, Matplotlib (Data Analysis), TensorFlow (ML), OpenCV (ML), Eigen (Linear Algebra)
 
 ---
