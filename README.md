@@ -1,6 +1,6 @@
 # About Me
 
-First-semester **Electrical Engineering and Information Technology** student at **ETH Zürich**.  
+First-year **Electrical Engineering and Information Technology** student at **ETH Zürich**.  
 
 ---
 
