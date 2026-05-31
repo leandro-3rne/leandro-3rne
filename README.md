@@ -13,7 +13,6 @@ I enjoy combining hardware and software to create practical engineering projects
 - Python
 - MATLAB
 - LaTeX
-- Arduino/C
 
 ### Engineering & Development
 - Git & GitHub
