@@ -60,8 +60,8 @@ I enjoy combining hardware and software to create practical engineering projects
 
 ## Get in Touch
 
-[![Email](https://img.shields.io/badge/Email-ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:leandro.erne@proton.me)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://leandro-erne.vercel.app)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Leandro%20Ern%C3%A9-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-ern%C3%A9-ab673135a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-ern%C3%A9-ab673135a/)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-leandro--erne.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://leandro-erne.vercel.app)
+[![Email](https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge\&logo=protonmail\&logoColor=white)](mailto:leandro.erne@proton.me)
