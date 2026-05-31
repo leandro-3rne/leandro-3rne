@@ -6,7 +6,7 @@ First-year **Electrical Engineering and Information Technology** student at **ET
 
 ### Tools & Languages
 - **Languages:** C++, Python, LaTeX, MATLAB
-- **Tools:** GitHub, VSCode, PyCharm, CLion
+- **Tools:** GitHub, VSCode, Cursor
 - **Libraries:** NumPy, SciPy, Matplotlib (Data Analysis), TensorFlow (ML), OpenCV (ML), Eigen (Linear Algebra)
 
 ---
@@ -20,3 +20,4 @@ First-year **Electrical Engineering and Information Technology** student at **ET
 ### Get in Touch
 - [E-Mail](mailto:leandro.erne@proton.me)
 - [LinkedIn](https://www.linkedin.com/in/leandro-ern%C3%A9-ab673135a/)
+- [Web-Portfolio](https://leandro-erne.vercel.app/)
