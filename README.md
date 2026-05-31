@@ -6,8 +6,8 @@ First-year **Electrical Engineering and Information Technology** student at **ET
 
 ### Tools & Languages
 - **Languages:** C++, Python, LaTeX, MATLAB
-- **Tools:** GitHub, VSCode, Cursor
-- **Libraries:** NumPy, SciPy, Matplotlib (Data Analysis), TensorFlow (ML), OpenCV (ML), Eigen (Linear Algebra)
+- **Tools:** GitHub, VSCode, Cursor, Arduino IDE, CLI-Tooling, Autodesk Fusion
+- **Libraries:** NumPy, SciPy, Matplotlib, TensorFlow, OpenCV, Eigen, Pandas
 
 ---
 
