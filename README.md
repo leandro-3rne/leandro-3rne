@@ -22,23 +22,7 @@ I enjoy combining hardware and software to create practical engineering projects
 - Linux / CLI Tooling
 - PCB Design
 - 3D Printing
-
-### Libraries & Frameworks
-- NumPy
-- Pandas
-- SciPy
-- Matplotlib
-- OpenCV
-- TensorFlow
-- Eigen
-
-### Hardware Platforms
-- Arduino
-- ESP32
-- Raspberry Pi
-- RP2040
-- Embedded Sensors & Actuators
-- Motor Drivers & Robotics Electronics
+- Electronics
 
 ---
 
