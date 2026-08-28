@@ -1,6 +1,6 @@
 # About Me
 
-First-year **Electrical Engineering and Information Technology (BSc)** student at **ETH Zürich**, passionate about building intelligent systems at the intersection of **robotics, embedded systems, software engineering, and data science**.
+I'm a Second-year **Electrical Engineering and Information Technology (BSc)** student at **ETH Zürich**, passionate about building intelligent systems at the intersection of **robotics, embedded systems, software engineering, and data science**.
 
 I enjoy combining hardware and software to create practical engineering projects — from autonomous robots and custom electronics to signal processing, computer vision, and machine learning applications.
 
