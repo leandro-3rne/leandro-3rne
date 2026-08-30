@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./ee-mark.svg" width="620" alt="Electrical Engineering: signals, systems, silicon"/>
+
 # Leandro Berne
 
 **Electrical Engineering & Information Technology @ ETH Zürich**
